@@ -21,6 +21,7 @@ http://osintframework.com
 * [Archive.org](https://archive.org/)
 * Kali tool for Instagram: [holehe](https://github.com/megadose/holehe).. ```holehe --only-used<email>```
 * [Socialbearing.com](https://socialbearing.com/)
+* [Phishme to get OAUTH Tokens](https://github.com/ageev/PhishMe)
 
 
 ## Notes
