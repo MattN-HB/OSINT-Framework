@@ -1,6 +1,26 @@
 # OSINT Framework
 
 http://osintframework.com
+## Added per 'Pentesting People' at Recon village DEFCON 29
+* [OSINT Dashboard](https://dashboard.intelhub.link/ipsearch.html)
+* ```Rg "@gmail.com" filename.csv | rg -i "Tesla"```
+* [Vehiclehistory.com](https://www.vehiclehistory.com/)
+* [Allbiz.com](https://www.allbiz.com/)
+* Find an ip,mac,across the globe: [Wigle.net](https://www.wigle.net/)
+* [Shodan](https://www.shodan.io/)
+* Advance background checks
+* Fast people search
+* Burpesuite
+* [Haveibeenpawned](https://haveibeenpwned.com/)
+* [Breachdirectory.tk](https://breachdirectory.tk/)
+* Use [hashcat](https://github.com/hashcat/hashcat) ```hashcat -m 100 -a3 "the hash"```
+* Reverse phone carrier search
+* [Classmates.com](Classmates.com)
+* Kali tool for Instagram: [Toutatis](https://github.com/megadose/toutatis)  .. ```Toutatis -u"<username>```
+* [Archive.org](https://archive.org/)
+* Kali tool for Instagram: [holehe](https://github.com/megadose/holehe).. ```holehe --only-used<email>```
+* [Socialbearing.com](https://socialbearing.com/)
+
 
 ## Notes
 OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
