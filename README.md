@@ -1,7 +1,7 @@
 # OSINT Framework
 
 http://osintframework.com
-## Added per 'Pentesting People' at Recon village DEFCON 29
+## Added per Few Talks at DEFCON 29
 * [OSINT Dashboard](https://dashboard.intelhub.link/ipsearch.html)
 * [ReNgine Recon tool](https://github.com/yogeshojha/rengine)
 * ```Rg "@gmail.com" filename.csv | rg -i "Tesla"```
