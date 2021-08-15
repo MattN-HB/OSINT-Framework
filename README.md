@@ -23,6 +23,12 @@ http://osintframework.com
 * [Socialbearing.com](https://socialbearing.com/)
 * [Phishme to get OAUTH Tokens](https://github.com/ageev/PhishMe)
 * [Phish to get OAUTH tokens](https://github.com/netskopeoss/phish_oauth)
+* [Amass](https://github.com/OWASP/Amass)
+* [EchoPwn](https://github.com/hackerspider1/EchoPwn)
+* [Osmedeus](https://github.com/j3ssie/Osmedeus)
+* [reconftw](https://github.com/six2dez/reconftw#sample-video)
+* [aquatone](https://github.com/michenriksen/aquatone)
+* [subfinder](https://github.com/projectdiscovery/subfinder)
 
 
 ## Notes
